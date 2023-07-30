@@ -1,4 +1,5 @@
 # El Molino - Restaurante Automatizado
+![ElMolino](https://github.com/CERP27/El-Molino-PF/blob/main/elmolino.png?raw=true)
 ¡Bienvenidos a El Molino! Este proyecto es el resultado de nuestro Proyecto Final realizado en conjunto con el equipo del Grupo 15 FT-38a de soyHenry. Se trata de una innovadora página web para un restaurante que busca minimizar, o incluso eliminar, el contacto entre el cliente y los mozos a través de una automatización completa del proceso de entrega.
 
 ## Características Clave
